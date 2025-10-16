@@ -18,5 +18,7 @@ public class EjerciciosTema2 {
 		return ex233(n-3) + n + ex233(n-2) + n; } 
 	//qué valor devuelve ex233(6)
 	//  ex233(3) + "6" + ex233(4) + "6"
+	// ex233
+	
 	
 }
